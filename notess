@@ -1,0 +1,50 @@
+HTML :
+
+   Hyperytext markup language 
+   combination of elements  (text in side bookpage )
+   element : combination of tags
+    paired 
+    unpaired 
+ purpose of HTML ?
+     create a web page  (book page)
+ purpose of webpages ? 
+     create  a website  (book)
+
+CSS : 
+
+     Cascading Style sheet (styles ,decorations)
+
+JS : Javascript (functional part of the webpage )
+
+How to write First HTML 
+
+open sublimetext editor 
+write plain text
+save as                   File.html
+
+rightclick on sublime text 
+
+open in browser 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
