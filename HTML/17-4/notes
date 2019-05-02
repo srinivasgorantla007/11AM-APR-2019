@@ -1,0 +1,16 @@
+important html attributes :
+
+ 1. title  : using for crate a titile 
+ 2. class : using for define a class
+ 3. id  : using for define id 
+ 4. style : using for inlinestyle declaration
+
+arrtibutes are written in open tag
+
+  attribute="value"
+
+attribute="value"  attribute="value"    attribute="value"
+
+ <p title="mypara" style="color:red" id="para" class="para"> 
+       hello html devs
+ </p>

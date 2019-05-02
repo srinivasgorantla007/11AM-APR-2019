@@ -1,0 +1,34 @@
+HTML : Hyper text Markup Language.
+
+CSS : Cascading Style sheet 
+
+JavaScript : scripting language.
+ javascript executes on html and css 
+ and which will get render in browser.
+
+ What is www ?
+  world wide web 
+
+What is a web page ? 
+   collection of elements ,text and images. (bookpage)
+
+What is website ?
+   collection of webpages  (book)
+
+webpage  is constructed by html tags.
+webpage is decorated by css
+webpage is manipulated by javascript
+
+requirements :
+
+ 1. desktop(windows,mac,linux)
+ 2. editor (notepad,notepad++,sublimetext)
+ visualstudio,visualstudiocode,brackets.
+ 3. browser
+
+browser <<->> html (CSS,JS)
+
+
+
+
+

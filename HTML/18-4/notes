@@ -1,0 +1,64 @@
+list items :
+ 
+  1. ordered list 
+  2. unordered list 
+  3. definition list
+
+  1. ordered list : ordered list of data 
+      <ol> 
+      <li>list item</li>
+      <li>list item</li>
+      <li>list item</li>
+     </ol> 
+
+   2. unordered list : unordered list of data 
+      <ul> 
+      <li>list item</li>
+      <li>list item</li>
+      <li>list item</li>
+     </ul> 
+   
+    3. definition list : list of definations 
+       
+       <dl>
+       <dt> </dt>  : defination title 
+       <dd> </dd> : defination description
+       <dt> </dt>
+       <dd> </dd>
+       </dl>
+hyperlinks :  hyperlinks in html are defined with a tag
+
+<a href="path"> Link Name </a>
+hyperlinks are not block level elements 
+hyperlinks are having some predefined style 
+ bluecolor underline
+
+ if we want to open link in new tab need to write special  attribute 
+     target ="_blank"
+
+  center tag :
+   <center>  </center>   
+text decoration in html
+
+b: bold the text
+i : italic style for text
+del : deleted text 
+em : emphesised 
+u : underline 
+<sub> : subscription
+<sup> : superscription 
+<center> : center text 
+<strong> : strong text 
+<abbr> :abbrevation text 
+<q> : small quotes 
+<blockquote>
+
+
+
+
+
+
+
+
+
+
