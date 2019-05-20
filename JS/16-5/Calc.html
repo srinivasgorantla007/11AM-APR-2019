@@ -1,0 +1,17 @@
+<input type="text" name="fNum" placeholder="FirstNumber"/>
+<input type="text" name="sNum" placeholder="SecondNumber"/><br>
+
+<button>Add Two Numbers</button><br>
+Result is :: <span></span>
+<script type="text/javascript">
+	document.getElementsByTagName('button')[0].addEventListener("click",fun)
+	 function fun() {
+var a= parseInt(document.getElementsByTagName('input')[0].value);
+var b= parseInt(document.getElementsByTagName('input')[1].value);
+	var c=a+b
+	 document.getElementsByTagName('span')[0].innerHTML=c
+	 document.getElementsByTagName('input')[0].value=""
+	  document.getElementsByTagName('input')[1].value=""
+	 }
+	
+</script>

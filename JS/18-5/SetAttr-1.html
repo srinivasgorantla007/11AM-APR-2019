@@ -1,0 +1,27 @@
+<img src="img1.jpg" width="100px" height="100px;">
+<style type="text/css">
+.red{
+		   border: 5px solid red;
+	}
+</style>
+
+<script type="text/javascript">
+	//remove Attribute
+document.getElementsByTagName('img')[0].addEventListener("mouseover",fun)
+ function fun()
+ {
+ document.getElementsByTagName('img')[0].setAttribute("src","flower3.jpg")
+ 
+  document.getElementsByTagName('img')[0].setAttribute("class","red")
+    document.getElementsByTagName('img')[0].style.border="4px solid blue";
+ }
+ document.getElementsByTagName('img')[0].addEventListener("mouseout",fun1)
+ function fun1()
+ {
+ document.getElementsByTagName('img')[0].setAttribute("src","img1.jpg")
+ document.getElementsByTagName('img')[0].style.border="";
+  document.getElementsByTagName('img')[0].setAttribute("class","")
+ }
+
+
+</script>

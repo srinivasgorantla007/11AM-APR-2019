@@ -1,0 +1,16 @@
+
+<input type="text" name="username" placeholder="username">
+
+<script type="text/javascript">
+document.getElementsByTagName('input')[0].addEventListener("focus",fun1);
+  function fun1()
+  {
+ document.getElementsByTagName('input')[0].style.backgroundColor="lightblue"   
+  }
+
+document.getElementsByTagName('input')[0].addEventListener("blur",fun2);
+  function fun2()
+  {
+  	 document.getElementsByTagName('input')[0].style.backgroundColor="white"  
+  }
+</script>
